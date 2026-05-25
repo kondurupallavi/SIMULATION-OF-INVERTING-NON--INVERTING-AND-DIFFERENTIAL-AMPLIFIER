@@ -37,4 +37,4 @@ SOFTWARE REQUIRED:
 
 
 ## RESULT:
-Thus the LT Spice tool has been studied and non-inverting ,inverting,differential amplifier circuit is stimulated.
+Thus the LT Spice tool has been studied and non-inverting ,inverting,differential amplifier circuit is stimulated..
